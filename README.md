@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Hyper%20Sir&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.imgur.com/bBKeJKo.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=hyper_sir_&github=Hypersir&)
+![My card name](https://cardivo.vercel.app/api?name=Hyper%20Sir&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.imgur.com/M2vPn9o.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=hyper_sir_&github=Hypersir&)
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
